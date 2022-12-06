@@ -1,3 +1,4 @@
+// import PouchDB from "pouchdb-browser/lib/index.js";
 /* global PouchDB */
 
 export default {
